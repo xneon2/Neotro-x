@@ -12,14 +12,13 @@
     Project of  🎭ɴᴇᴏᴛʀᴏ𝙭🪐 - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
-        <a href="https://Wa.me/+94 75 881 7307">En Cuizer whatsapp |
+        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> 
+        
         
     <Enjoy & stay safe stay home>
 </p>
----------------
 <p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/xneon2/Neotro-x">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
@@ -30,16 +29,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  <a href="https://github.com/xneon2/Neotro-x">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FNeotro-x&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X/fork">
-    <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
+  <a href="https://github.com/xneon2/Neotro-x/fork">
+    <img src="https://img.shields.io/github/forks/xneon2/Neotro-x?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X/stargazers">
-    <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
+  <a href="https://github.com/xneon2/Neotro-x/stargazers">
+    <img src="https://img.shields.io/github/stars/xneon2/Neotro-x?style=social">
   </a>
 </p>
 
