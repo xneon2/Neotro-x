@@ -79,7 +79,7 @@ Neotro-x  bot ගොඩනැගීමට ඔබට ජංගම දුරකථ
 පළමු උපාංගයෙන් ඔබට Neotro-x  Bot install කිරීමට අවශ්‍යයි..`
 
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/crazybunnyts/Neotro-x)
 
 
 > [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
