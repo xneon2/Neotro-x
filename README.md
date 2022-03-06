@@ -78,7 +78,7 @@ You will only generate a QR code with the first device.
 From the first device you need to install Neotro-x  Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Neotro-x)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/crazybunnyts/Neotro-x)
 
 
 > [Sinhala Youtube Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
